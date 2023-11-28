@@ -1,3 +1,6 @@
+/* this code performs analysis of a list of numbers, the programe include
+    finding max,min,sum and average of numbers from the given list of numbers*/
+
 void main() {
 List<int> numbers = [12, 34, 67, 55, 89, 23, 8, 92];
 int maxNum = numbers[0];
