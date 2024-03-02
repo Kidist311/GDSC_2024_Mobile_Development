@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/defaults.dart';
 import 'package:flutter_application_1/new.dart';
-import 'package:flutter_application_1/trailing.dart';
+import 'package:flutter_application_1/first.dart';
 import 'package:flutter_application_1/recomendation.dart';
 import 'package:provider/provider.dart';
 
